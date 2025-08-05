@@ -69,6 +69,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=kopikap11&show_icons=true&theme=tokyonight">
 </p>
 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kopikap11&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kopikap11&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
+
+
 ---
 
 ## 🎯 Quote of the Day

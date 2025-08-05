@@ -75,8 +75,9 @@
 ## 🧩 Visitor Counter
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=kopikap11.kopikap11" alt="visitor badge"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=kopikap11.kopikap11&style=flat-square&color=white&textColor=cyan&labelColor=0d1117" alt="visitor badge"/>
 </p>
+
 
 
 ---

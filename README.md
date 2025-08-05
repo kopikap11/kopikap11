@@ -49,10 +49,6 @@
 ## 📫 Kontak
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0K4kWJirrp0fKf0Y/giphy.gif" width="60" />
-</p>
-
-<p align="center">
   <a href="mailto:rbaldii1222@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>

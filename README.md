@@ -74,11 +74,10 @@
 
 ## 🧩 Visitor Counter
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=kopikap11.kopikap11&style=flat-square&color=white&textColor=cyan&labelColor=0d1117" alt="visitor badge"/>
-</p>
-
-
+<div align="center" style="background-color:#0d1117;padding:20px 30px;border-radius:12px;box-shadow:0px 0px 10px rgba(0,255,255,0.2);">
+  <p><strong>👁️ Total Pengunjung Profil:</strong></p>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=kopikap11.kopikap11&style=flat-square&color=white&textColor=cyan&labelColor=0d1117" width="250" alt="visitor badge"/>
+</div>
 
 ---
 

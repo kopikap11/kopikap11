@@ -1,16 +1,30 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Halo,+saya+Aldi__+👋;Aspiring+Data+Analyst;SQL,+Python,+Power+BI+Enthusiast;&center=true&width=380&height=45">
+</p>
 
-<!--
-**kopikap11/kopikap11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Halo! Saya Aldi__
 
-Here are some ideas to get you started:
+📊 **Aspiring Data Analyst**  
+Belajar dari data, berkembang setiap hari. Saya suka bermain dengan angka dan cerita di balik data!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tools & Skills
+- SQL | Excel | Python (Pandas, Matplotlib)
+- Power BI | Google Data Studio (belajar)
+- Data Cleaning | Data Visualization | Insight
+
+## 🧠 Sedang Dipelajari
+- Dashboard Automation
+- Statistik Dasar & A/B Testing
+- Git & GitHub untuk data project
+
+## 📫 Kontak
+- 📧 Email: rbaldii1222@gmail.com  
+- 📷 Instagram: [@rb.aldii](https://instagram.com/rb.aldii)
+
+## 🍊 GitHub Stats
+![Aldi's GitHub stats](https://github-readme-stats.vercel.app/api?username=kopikap11&show_icons=true&theme=default)
+
+---
+
+Terima kasih sudah mampir ke profil saya!
+

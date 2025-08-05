@@ -84,7 +84,7 @@
 ## 🎯 Quote of the Day
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Belajar+data+setiap+hari;+Gagal+adalah+bagian+dari+analisis;+Terus+explore+dan+berkembang!&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Learning+data+is+a+continuous+journey.;Every+mistake+is+a+step+to+insight.;Keep+analyzing,+keep+growing.&center=true&width=500&height=45">
 </p>
 
 ---

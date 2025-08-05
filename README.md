@@ -75,8 +75,9 @@
 ## 🧩 Visitor Counter
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=kopikap11&label=Visitors&color=0e75b6&style=flat-square" alt="visitor counter"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=kopikap11.kopikap11" alt="visitor badge"/>
 </p>
+
 
 ---
 

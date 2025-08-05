@@ -1,55 +1,52 @@
-<!-- 🔷 HEADER / ANIMASI -->
+<!-- 🔷 HEADER -->
 <div align="center" style="background-color:#e3f2fd;padding:20px;border-radius:12px;">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Halo,+saya+Aldi__+👋;Aspiring+Data+Analyst;SQL,+Python,+Power+BI+Enthusiast;&center=true&width=500&height=45">
 </div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 </p>
 
 ---
 
-## 👤 About Me
+# 👤 About Me
 
 📊 **Aspiring Data Analyst**  
-> Belajar dari data, berkembang setiap hari. Suka menjelajahi insight melalui angka dan visualisasi 📉📊
+> Belajar dari data, berkembang setiap hari. Suka menjelajahi insight melalui angka dan visualisasi 📉📊  
+> Saat ini fokus belajar SQL, Python (Pandas), dan Power BI untuk membangun pemahaman analitik yang kuat.
+
+📍 Based in Indonesia 🇮🇩
 
 ---
 
-## 🔧 Tools & Skills
+## ⚙️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://media.giphy.com/media/f9XgHH0sq0e3RpFzv4/giphy.gif" width="80"/>  
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Google%20Data%20Studio-4285F4?style=flat-square&logo=googlestreetview&logoColor=white"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-</p>
-
-<p align="center">
-  📌 Data Cleaning | 📈 Data Visualization | 💡 Insight Generation  
-  <br>
-  📊 Power BI | 📎 Google Data Studio (belajar)
-</p>
+🧼 Data Cleaning | 📈 Data Visualization | 💡 Insight Generation  
+🧪 Statistik Dasar | 📊 Dashboard BI | 🔁 Git & GitHub
 
 ---
 
-## 🧠 Sedang Dipelajari
+## 🚀 Projects Highlight
 
-- 📊 Dashboard Automation  
-- 📐 Statistik Dasar & A/B Testing  
-- 🛠 Git & GitHub untuk data project  
+- 📊 [Dashboard Penjualan (Power BI)](https://github.com/kopikap11/icp_kel_1)
+- 💼 [Landing Page HTML Project](https://github.com/kopikap11/SoftwareEngginering_kel4)
+- 📁 [Analisis Data Penjualan Excel](#) *(coming soon)*
 
 ---
 
-## 📫 Kontak
+## 📫 Contact
 
 <p align="center">
   <a href="mailto:rbaldii1222@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://instagram.com/rb.aldii" target="_blank">
     <img src="https://img.shields.io/badge/@rb.aldii-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
@@ -58,12 +55,27 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📈 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kopikap11&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kopikap11&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kopikap11&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kopikap11&layout=compact&theme=tokyonight" width="48%"/>
+</p>
+
+---
+
+## ⚡️ GitHub Streaks
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kopikap11&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🧩 Visitor Counter
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kopikap11&label=Profile%20views&color=0e75b6&style=flat" alt="kopikap11" />
 </p>
 
 ---
@@ -76,4 +88,4 @@
 
 ---
 
-<p align="center"><i>Terima kasih sudah mampir ke profil saya! 🌟</i></p>
+<p align="center"><i>Terima kasih sudah mampir ke profil saya! 🌟 Jangan lupa follow dan lihat repo saya ya!</i></p>

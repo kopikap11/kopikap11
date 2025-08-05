@@ -9,7 +9,7 @@
 
 ---
 
-# 👋 Halo! Saya Aldi__
+## 👤 About Me
 
 📊 **Aspiring Data Analyst**  
 > Belajar dari data, berkembang setiap hari. Suka menjelajahi insight melalui angka dan visualisasi 📉📊
@@ -39,7 +39,6 @@
 
 ## 🧠 Sedang Dipelajari
 
-
 - 📊 Dashboard Automation  
 - 📐 Statistik Dasar & A/B Testing  
 - 🛠 Git & GitHub untuk data project  
@@ -61,13 +60,11 @@
 
 ## 📊 GitHub Stats
 
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kopikap11&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kopikap11&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
-
 
 ---
 

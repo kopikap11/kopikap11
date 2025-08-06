@@ -1,6 +1,6 @@
 <!-- 🔷 HEADER -->
 <div align="center" style="background-color:#e3f2fd;padding:20px;border-radius:12px;">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Halo,+saya+Aldi__+👋;Aspiring+Data+Analyst;SQL,+Python,+Power+BI+Enthusiast;&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Halo,+i'm+Aldi__+👋;Aspiring+Data+Analyst;SQL,+Python,+Power+BI+Enthusiast;&center=true&width=500&height=45">
 </div>
 
 <p align="center">

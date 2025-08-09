@@ -36,7 +36,7 @@
 
 ## 🚀 Projects Highlight
 
-- 📊 [Dashboard Penjualan (Power BI)](https://github.com/kopikap11/icp_kel_1)
+- 📊 [destinasi wisata indonesia (Power BI)](https://github.com/kopikap11/power-BI.git)
 - 💼 [Landing Page HTML Project](https://github.com/kopikap11/SoftwareEngginering_kel4)
 - 📁 [Analisis Data Penjualan Excel](#) *(coming soon)*
 
